@@ -2,8 +2,6 @@
 <h3 align="center">A web developer from Sweden</h3>
 
 - 📫 How to reach me **Heneborn@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
